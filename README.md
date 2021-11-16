@@ -18,9 +18,8 @@ boundary, because of rounding errors.
 
 ## The project
 The project is a visualization of the algorithm. The visualization was made with the CANVAS element of JavaScript.
-
-![The visualization](index.html)
+[The visualization can be displayed here](index.html).
 
 It's important to note that the variable `precision` can be setted to see te problem of the limited precision.
 
-[This is a project made as an assignment for the Computer Graphics course of FGV-RJ.]
+_This is a project made as an assignment for the Computer Graphics course of FGV-RJ._
